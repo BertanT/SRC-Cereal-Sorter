@@ -54,8 +54,8 @@ NEOPIXEL_BRIGHTNESS = 1  # Between 0 and 1
 # May need to experiment with SERVO_MIN_PULSE and SERVO_MAX_PULSE to get accurate angles
 #   on your specific model of servo motor. Check this link for more info:
 #   https://learn.adafruit.com/using-servos-with-circuitpython/high-level-servo-control
-SERVO_PWM_DUTY_CYCLE = 2 ** 15  # Reccommended
-SERVO_PWM_FREQ = 50  # Reccommended
+SERVO_PWM_DUTY_CYCLE = 2 ** 15  # Recommended
+SERVO_PWM_FREQ = 50  # Recommended
 SERVO_MIN_PULSE = 650  # Works okay with Tower Pro SG92R
 SERVO_MAX_PULSE = 2350  # Works okay with Tower Pro SG92R
 
